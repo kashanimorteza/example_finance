@@ -1,56 +1,8 @@
-<style>
-.md0{padding-bottom: 150px;}
-.md1{padding-bottom: 75px;}
-.md2{padding-bottom: 50px;}
-.md3{padding-bottom: 25px;}
-.md4{padding-bottom: 5px;}
-.md5{padding-bottom: 10px;}
-.a{display: inline-block;width: 50px;background-color: white}
-.b{display: inline-block;width: 150px;background-color: white}
-.c{display: inline-block;width: 450px;background-color: white}
-.d{display: inline-block;width: 400px;background-color: white}
-.tbl1 td#header{background-color: D1ECCF}
-.tbl1 tr#header{background-color: D1ECCF}
-.red{color:#E74C3C}
-.blue{color:#3498DB}
-.green{color:#28B463}
-table{border: 0px solid black;}
-.child {display:inline-block;vertical-align: top;margin-right: 10px;}
-</style>
-
-# [<span style="color:black;">Forex</span>](../index.md)
-
-[Economy](economy.md) |
-[Technology](technology.md) |
-[Forex](forex.md) |
-[Crypto](crypto.md) |
-[Mining](mining.md) |
-[Wallet](wallet.md) |
-[Techniqual](techniqual.md) |
-[Project](project.md) |
-[Analysis](analysis.md) |
-[Strategy](strategy.md) |
-[Execution](execution.md) |
-[Data](data.md) |
-[Develop](develop.md) |
-[Resource](resource.md)
-
-<div align="left"><img src="diagram/forex.jpeg"></div>
-
-<div class="md3">
-<a href="#concept">Concept</a> -
-<a href="#order">Order</a> -
-<a href="#develop">Develop</a> -
-<a href="#note">Note</a>
-</div>
-
-<!-----------------------------------------------------------Concept----------------------------------------------------------->
-<div class="md5"></div>
-
+<!---------------------------------------------------------------------------Concept-->
 ## Concept
 
 <!---------------------------------------Forex-->
-#### <span class="red">Forex</span>
+#### Forex
 
 <table class="tbl1"><tbody>
 <tr>
@@ -82,7 +34,7 @@ table{border: 0px solid black;}
 </tbody></table>
 
 <!---------------------------------------Account type-->
-#### <span class="red">Account type</span>
+#### Account type
 
 <table class="tbl1"><tbody>
 <tr>
